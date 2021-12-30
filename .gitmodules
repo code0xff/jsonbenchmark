@@ -1,0 +1,9 @@
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/Tencent/rapidjson
+[submodule "Catch2"]
+	path = Catch2
+	url = https://github.com/catchorg/Catch2
+[submodule "fc"]
+	path = fc
+	url = https://github.com/noir-protocol/fc
